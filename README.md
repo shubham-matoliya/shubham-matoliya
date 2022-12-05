@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div >
+  <img src="https://wallpapercave.com/wp/wp7664856.png" />
+  <div>
 # 💫 About Me:
 🔭 I’m currently learning full Stack development at Masai School<br>🤝 I’m looking to collaborate on a project based on React.JS and Next.JS<br>🌱 I’m currently learning Backend technologies<br>💬 Ask me about anything<br>⚡️Fun fact... I love video games and many owners of large tech companies loved video games as kids.😜
 
