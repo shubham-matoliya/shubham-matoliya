@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<div >
-  <img src="https://wallpapercave.com/wp/wp7664856.png" />
-  <div>
+<div><img align="right" src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9527f7b5a8fb2753fdaf4c5fba74bb6c1535fc76779&rid=giphy.gif&ct=s" width="30%"/></div>
+
 # 💫 About Me:
 🔭 I’m currently learning full Stack development at Masai School<br>🤝 I’m looking to collaborate on a project based on React.JS and Next.JS<br>🌱 I’m currently learning Backend technologies<br>💬 Ask me about anything<br>⚡️Fun fact... I love video games and many owners of large tech companies loved video games as kids.😜
 
+<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Sam_1902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-matoliya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Shubhammatoliy4) 
