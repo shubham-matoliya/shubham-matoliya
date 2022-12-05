@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<div align="center" ><img width="25%" src="https://www.innovination.com/wp-content/uploads/2021/06/web-development.gif" /></div>
+<div align="center" >
+  <img width="45%" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" />
+  <img width="30%" src="https://www.gytox.com/wp-content/uploads/2021/10/cadillac-michigan-web-design-process.gif" /> 
+</div>
 
 <div><img align="right" src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b9527f7b5a8fb2753fdaf4c5fba74bb6c1535fc76779&rid=giphy.gif&ct=s" width="30%"/></div>
 
